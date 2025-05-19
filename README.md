@@ -12,5 +12,11 @@
 # https://www.pdfhelper.io/bg
 # https://www.pdfhelper.io/th
 # https://www.pdfhelper.io/bd
+# https://www.pdfhelper.io/fr
+# https://www.pdfhelper.io/it
+# https://www.pdfhelper.io/pt
+# https://www.pdfhelper.io/in
+# https://www.pdfhelper.io/jp
+# https://www.pdfhelper.io/ro
 # https://www.rentalmarketvienna.at/
 # https://www.sidebysidemaps.com/
