@@ -20,3 +20,16 @@
 # https://www.pdfhelper.io/ro
 # https://www.rentalmarketvienna.at/
 # https://www.sidebysidemaps.com/
+# https://www.kedyistdo.com/
+# https://www.kedyistdo.com/kedy-ist-do/hvar/
+# https://www.kedyistdo.com/kedy-ist-do/tokio/
+# https://www.kedyistdo.com/kedy-ist-do/miami/
+# https://www.kedyistdo.com/kedy-ist-do/buenos-aires/
+# https://www.kedyistdo.com/kedy-ist-do/zanzibar/
+# https://www.kedyistdo.com/kedy-ist-do/hurghada/
+# https://www.kedyistdo.com/kedy-ist-do/dubaj/
+# https://www.kedyistdo.com/kedy-ist-do/punta-cana/
+# https://www.kedyistdo.com/kedy-ist-do/kontinent/azia/
+# https://www.kedyistdo.com/kedy-ist-do/bangkok/
+# https://www.kedyistdo.com/kedy-ist-do/bangkok/
+# https://www.kedyistdo.com/kedy-ist-do/phuket/
