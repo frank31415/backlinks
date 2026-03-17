@@ -33,3 +33,6 @@
 # https://www.kedyistdo.com/kedy-ist-do/bangkok/
 # https://www.kedyistdo.com/kedy-ist-do/bangkok/
 # https://www.kedyistdo.com/kedy-ist-do/phuket/
+# https://www.worldcuporacle.com/en/rankings
+# www.worldcuporacle.com
+# https://www.worldcuporacle.com/en/predictor
